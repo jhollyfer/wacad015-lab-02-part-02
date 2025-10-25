@@ -1,4 +1,4 @@
-name: Build V1
+name: Build V2
 on: push
 jobs:
   lint:
